@@ -4,4 +4,4 @@ main: com.tehfreak.bukkit.redis.Redis
 version: 0.0.1
 
 authors: [tehfreak.com, awesome39.com]
-website: https://github.com/tehfreak/bukkit-jedis
+website: https://github.com/tehfreak/bukkit-redis
